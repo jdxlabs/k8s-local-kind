@@ -8,4 +8,4 @@ Some configuration usecases :
 3. cluster with an nginx controller
 
 A cheatsheet is available here : 
-https://jdxlabs.com/notes/kind
+https://github.com/jdxlabs/cheatsheets/blob/main/sheets/containers-vms/kind.md
